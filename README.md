@@ -7,6 +7,7 @@ It uses **MongoDB** for persistant storage, with **Mongoose** as the database AP
 Make sure to have MongoDB installed on your machine. See their [installation guides](http://docs.mongodb.org/manual/installation/) if you haven't already.
 
 1. run the mongo demon (if you don't know how - it will be within the installtion guide) For me that's `mongod` inside Terminal
-2. inside a new shell; run `node server`
-3. load up http://127.0.0.1:3000
-4. Signup and login!
+2. inside a new shell; `cd` into the project directory
+3. run `node server`
+4. load up http://localhost:3000
+5. aignup and login!

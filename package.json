@@ -1,0 +1,14 @@
+{
+    "name": "mongoose",
+    "description": "Mongoose MongoDB",
+    "private": "true",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.3.1",
+        "mongoose": "3.8.11",
+        "jade": "1.3.1",
+        "cookie-parser": "1.1.0",
+        "express-session": "1.2.0",
+        "body-parser": "1.2.0"
+    }
+}

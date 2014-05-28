@@ -10,4 +10,4 @@ Make sure to have MongoDB installed on your machine. See their [installation gui
 2. inside a new shell; `cd` into the project directory
 3. run `node server`
 4. load up http://localhost:3000
-5. aignup and login!
+5. signup and login!
